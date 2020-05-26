@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GearSystemExtend
 {
-    public class Class1
+    class GearJson
     {
     }
 }
