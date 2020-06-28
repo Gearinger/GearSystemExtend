@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearSystemExtend", "GearSys
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearMartrix", "GearMarTrix\GearMartrix.csproj", "{00345AE9-E57F-4F62-9283-E912BCF6E818}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GearTools", "GearTools", "{34079B24-6FC6-4E11-88EF-764E4CDC32FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearImageTools", "GearImageTools\GearImageTools.csproj", "{161C08EE-FCF6-4F48-95B4-6ED1F38F9AB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,9 +25,16 @@ Global
 		{00345AE9-E57F-4F62-9283-E912BCF6E818}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00345AE9-E57F-4F62-9283-E912BCF6E818}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00345AE9-E57F-4F62-9283-E912BCF6E818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161C08EE-FCF6-4F48-95B4-6ED1F38F9AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161C08EE-FCF6-4F48-95B4-6ED1F38F9AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161C08EE-FCF6-4F48-95B4-6ED1F38F9AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161C08EE-FCF6-4F48-95B4-6ED1F38F9AB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{161C08EE-FCF6-4F48-95B4-6ED1F38F9AB0} = {34079B24-6FC6-4E11-88EF-764E4CDC32FC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A8E0C52C-5DF4-49FE-8C64-66FF578841BF}
