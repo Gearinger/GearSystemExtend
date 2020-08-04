@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearImageTools", "GearImage
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearCoordinateTransform", "GearCoordinateTransform\GearCoordinateTransform.csproj", "{C5558575-3155-459F-9F00-6B0B5CD360D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearConfig", "GearConfig\GearConfig.csproj", "{E9DBF404-5D2F-4F78-91FC-30B3E7087766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearLog", "GearLog\GearLog.csproj", "{FFD7647E-A349-499E-9237-0EA6FE1CDE13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,14 @@ Global
 		{C5558575-3155-459F-9F00-6B0B5CD360D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5558575-3155-459F-9F00-6B0B5CD360D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5558575-3155-459F-9F00-6B0B5CD360D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DBF404-5D2F-4F78-91FC-30B3E7087766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DBF404-5D2F-4F78-91FC-30B3E7087766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DBF404-5D2F-4F78-91FC-30B3E7087766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DBF404-5D2F-4F78-91FC-30B3E7087766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD7647E-A349-499E-9237-0EA6FE1CDE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD7647E-A349-499E-9237-0EA6FE1CDE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD7647E-A349-499E-9237-0EA6FE1CDE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD7647E-A349-499E-9237-0EA6FE1CDE13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
